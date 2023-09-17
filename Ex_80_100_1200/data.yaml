@@ -1,0 +1,7 @@
+path: Ex_80_100_1200
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+- fight
