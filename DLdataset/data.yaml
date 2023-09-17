@@ -1,9 +1,0 @@
-path: DLdataset
-train: train/images
-val: valid/images
-test: test/images
-nc: 3
-names:
-- DL
-- Satire
-- NDL
